@@ -1,31 +1,20 @@
 import turtle
-
-
-
 def DrawBranch(branchLen):
-
-    if branchLen > 10:
+    if branchLen > 20:
         t.forward(branchLen)
-        t.right(80)
-        DrawBranch(branchLen-20)
-        t.left(160)
-        DrawBranch(branchLen-20)
-        t.right(80)
-        DrawBranch(branchLen-20)
+        angle = 60
+        t.right(angle)
+        DrawBranch(branchLen*0.5)
+        t.left(angle * 2)
+        DrawBranch(branchLen*0.5)
+        t.right(angle)
+        DrawBranch(branchLen*0.5)
         t.backward(branchLen)
-
-
-
-
 s = turtle.Screen()
-s.bgcolor("black")
-
 t = turtle.Turtle()
 t.color("green")
-t.speed(5000)
-
+t.speed(10000)
 t.width(5)
 t.left(90)
-
-DrawBranch(100)
+DrawBranch(200)
 turtle.done()
