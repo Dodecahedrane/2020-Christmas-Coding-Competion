@@ -1,6 +1,6 @@
 import turtle
 def DrawBranch(branchLen):
-    if branchLen > 20:
+    if branchLen > 5:
         t.forward(branchLen)
         angle = 60
         t.right(angle)
