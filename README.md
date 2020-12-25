@@ -1,6 +1,5 @@
 # Fractal Christmas Tree In Python
 ## Year 1 Comp Sci Christmas Coding Competition Entry
-### Recursively Drawn Christmas Tree
 
 For the 2020 coding competition I decided to set myself a challenge; make a recursively drawn Christmas tree in Python using only the spare time I had on Christmas day. And to do it in under 20 lines.
 
