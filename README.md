@@ -1,2 +1,3 @@
-# 2020-Christmas-Coding-Competion
-Year 1 Comp Sci Christmas Coding Competition Entry
+# Fractal Christmas Tree In Python
+## Year 1 Comp Sci Christmas Coding Competition Entry
+
