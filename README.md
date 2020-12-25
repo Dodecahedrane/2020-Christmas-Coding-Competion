@@ -6,7 +6,7 @@ For the 2020 coding competition I decided to set myself a challenge; make a recu
 
 I technically managed both of those, however it looks more like a palm tree, so I guess I better hope the judges are Hawaiian. Although even their Christmas trees look more like a Christmas tree than mine! At least though I needed only 20 lines, so I suppose I succeeded in that requirement I suppose. 
 
- ![Hawaiian Christmas Palm Tree Thing](https://threelittleferns.com/wp-content/uploads/2016/12/hawaiian-christmas-tree-1.jpg)
+ ![Hawaiian Christmas Palm Tree Thing](https://threelittleferns.com/wp-content/uploads/2016/12/hawaiian-christmas-tree-1.jpg =250x)
 
 
 
