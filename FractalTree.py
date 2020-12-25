@@ -6,12 +6,14 @@ def DrawBranch(branchLen):
 
     if branchLen > 10:
         t.forward(branchLen)
-        t.right(40)
-        DrawBranch(branchLen-15)
-        t.left(80)
-        DrawBranch(branchLen-15)
-        t.right(40)
+        t.right(80)
+        DrawBranch(branchLen-20)
+        t.left(160)
+        DrawBranch(branchLen-20)
+        t.right(80)
+        DrawBranch(branchLen-20)
         t.backward(branchLen)
+
 
 
 
